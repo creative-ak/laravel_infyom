@@ -1,4 +1,4 @@
-# laravel_infyom
+# laravel with infyom and more
 laravel infyom with spatie(role,permission)socialite
 
 
